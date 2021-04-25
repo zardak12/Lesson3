@@ -1,2 +1,2 @@
 # Lesson3
-Homework for Lesson 3
+## Реализовать COW на своей структуре со свойством reference type (isKnownUniquelyReferenced)
